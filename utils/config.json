@@ -1,0 +1,7 @@
+{
+    "platformName": "Android",
+    "platformVersion": "11",
+    "deviceName": "emulator-5554",
+    "app": "path/to/your/app.apk",
+    "automationName": "UiAutomator2"
+}
